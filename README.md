@@ -36,8 +36,6 @@ mova-se/
 └── README.md
 ````
 
-
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
@@ -47,8 +45,6 @@ mova-se/
 - MySQL (MariaDB)
 - Google Fonts (Ubuntu)
 - Google Maps Embed
-
----
 
 ## 📋 Banco de Dados
 
@@ -70,8 +66,6 @@ CREATE TABLE contato (
 ) DEFAULT CHARSET=utf8mb4;
 ````
 
----
-
 ## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
@@ -92,8 +86,6 @@ CREATE TABLE contato (
    http://localhost/mova-se/index.html
    ```
 
----
-
 ## 🔐 Requisitos
 
 * PHP 7.4 ou superior
@@ -101,13 +93,11 @@ CREATE TABLE contato (
 * Servidor local (XAMPP, WAMP, Laragon etc.)
 * Navegador atualizado
 
----
 
 ## 👨‍💻 Autor
 
 Desafio proposto por **Prof. Luana** o Site acadêmico – SENAC Lapa Tito
 
----
 
 ## 📬 Contato
 
