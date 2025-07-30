@@ -1,13 +1,10 @@
-O site **Mova-se**, envolve um site educacional com formulário de contato, integração com banco de dados:
+O site **Mova-se**, envolve um site educacional com formulário de contato e integração com banco de dados:
 
 ---
 
-```markdown
 # 🌍 Mova-se
 
 **Mova-se** é um site educacional com foco em esportes radicais e turismo de aventura. A plataforma permite ao usuário visualizar pacotes, acessórios e entrar em contato diretamente com a equipe por meio de um formulário conectado ao banco de dados.
-
----
 
 ## 📌 Funcionalidades
 
@@ -18,12 +15,9 @@ O site **Mova-se**, envolve um site educacional com formulário de contato, inte
 - ✅ Mapa de localização via Google Maps
 - ✅ Design responsivo e acessível
 
----
-
 ## 📁 Estrutura de Pastas
 
-```
-
+````
 mova-se/
 ├── css/
 │   └── estilo.css
@@ -40,10 +34,9 @@ mova-se/
 ├── contato.php
 ├── conecta.php
 └── README.md
-
 ````
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
